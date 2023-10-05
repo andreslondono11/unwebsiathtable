@@ -1,0 +1,10 @@
+^J:\PS STUDIO\PRODUCCION\PROJECT SPARKLIS\UNWEBSIATH2TABLET\BUILD\WINDOWS\CMAKEFILES\7CEE74203138AF14304C569085F52FBE\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

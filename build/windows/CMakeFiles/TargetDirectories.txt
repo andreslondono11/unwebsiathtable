@@ -1,0 +1,13 @@
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/CMakeFiles/INSTALL.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/CMakeFiles/ALL_BUILD.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/CMakeFiles/ZERO_CHECK.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/flutter/CMakeFiles/INSTALL.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/runner/CMakeFiles/unwebsiath2.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/runner/CMakeFiles/INSTALL.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+J:/PS STUDIO/PRODUCCION/PROJECT SPARKLIS/unwebsiath2tablet/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir

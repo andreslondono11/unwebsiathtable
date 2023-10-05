@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="J:\PS STUDIO\PRODUCCION\PROJECT SPARKLIS\unwebsiath2tablet\build\windows\CMakeFiles\7f0124dc2c8f1210a5f9131ce7b29ebd\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\PS STUDIO\PRODUCCION\PROJECT SPARKLIS\unwebsiath2tablet\build\windows\CMakeFiles\b915974b062491c6e5d48a464be581aa\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="J:\PS STUDIO\PRODUCCION\PROJECT SPARKLIS\unwebsiath2tablet\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="J:\PS STUDIO\PRODUCCION\PROJECT SPARKLIS\unwebsiath2tablet\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BDCC4B7E-A5C1-3D4B-A626-63E514501D5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
